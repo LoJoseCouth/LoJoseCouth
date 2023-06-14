@@ -35,5 +35,4 @@
 
   ![Snake animation](https://github.com/LoJoseCouth/LoJoseCouth/blob/output/github-contribution-grid-snake.svg)
   
-</div>
-
+   </div>
