@@ -8,6 +8,7 @@
 - 😄 Pronouns:ele/dele ...
 
 <br>
+
 <div align="center">  
   <a href="https://www.linkedin.com/in/ló-josé-coutinho-536b2720b"/>
   <img width="45%" src ="https://github-readme-stats.vercel.app/api?username=LoJoseCouth&theme=shadow_red&show_icons=true"/>
@@ -15,7 +16,7 @@
  <div/>
 <br>
   
- <div style="display: inline_block"><br>
+ <h3>Main skills:<h3>
    <img aling="center" alt="LoJoseCouth-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
    <img aling="center" alt="LoJoseCouth-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
    <img aling="center" alt="LoJoseCouth-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
