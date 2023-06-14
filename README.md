@@ -6,8 +6,8 @@
 
 <div>
   <a href="https://www.linkedin.com/in/ló-josé-coutinho-536b2720b"/>
-  <img height="170em" src ="https://github-readme-stats.vercel.app/api?username=LoJoseCouth&theme=shadow_red&show_icons=true"/>
-  <img height ="170em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=LoJoseCouth&layout=compact&langs_count=16&theme=shadow_red"/>
+  <img height="170em" src ="https://github-readme-stats.vercel.app/api?username=LoJoseCouth&theme=shadow_red&show_icons=true"/><a/>
+  <img height ="170em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=LoJoseCouth&layout=compact&langs_count=16&theme=shadow_red"/><a/>
  <div/>
   
  <div style="display: inline_block"><br>
