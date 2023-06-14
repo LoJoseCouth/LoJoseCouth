@@ -30,4 +30,4 @@
   <a href= "https://www.linkedin.com/in/ló-josé-coutinho-536b2720b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
                      
-![Snake animation](https://github.com/LoJoseCouth/LoJoseCouth/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
