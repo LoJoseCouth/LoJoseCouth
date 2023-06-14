@@ -1,4 +1,6 @@
-### Olá! Me chamo Ló José, sou apaixonado por tecnologia, atualmente cursando Engenharia de Software, com graduação completa em Gestão de T.I e formação técnica em Informática. Minha dedicação aos estudos e o desejo de me manter atualizado com as mais recentes tendências tecnológicas são características que me impulsionam a alcançar resultados excelentes.
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=560e0d&height=120&section=header"/>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=560e0d&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Ló+José+Couth;I'm+25+years+old;I+am+from+Teresina,+PI;I+study+Software+Engineering+at+Estácio;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 - 🔭 Em busca da minha primeira oportunidade como programador ...
 - 🌱 Atualmente cursando Engenharia de Software ...
