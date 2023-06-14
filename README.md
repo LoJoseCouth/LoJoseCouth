@@ -7,8 +7,8 @@
 <br>
 <div>
   <a href="https://www.linkedin.com/in/ló-josé-coutinho-536b2720b"/>
-  <img width="42%" src ="https://github-readme-stats.vercel.app/api?username=LoJoseCouth&theme=shadow_red&show_icons=true"/>
-  <img width="50%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=LoJoseCouth&layout=compact&langs_count=16&theme=shadow_red"/>
+  <img width="45%" src ="https://github-readme-stats.vercel.app/api?username=LoJoseCouth&theme=shadow_red&show_icons=true"/>
+  <img width="45%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=LoJoseCouth&layout=compact&langs_count=16&theme=shadow_red"/>
  <div/>
 <br>
   
