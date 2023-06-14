@@ -4,11 +4,13 @@
 - 🌱 Atualmente cursando Engenharia de Software ...
 - 😄 Pronouns:ele/dele ...
 
+<br>
 <div>
   <a href="https://www.linkedin.com/in/ló-josé-coutinho-536b2720b"/>
   <img height="180em" src ="https://github-readme-stats.vercel.app/api?username=LoJoseCouth&theme=shadow_red&show_icons=true"/>
   <img height ="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=LoJoseCouth&layout=compact&langs_count=16&theme=shadow_red"/>
  <div/>
+<br>
   
  <div style="display: inline_block"><br>
    <img aling="center" alt="LoJoseCouth-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
