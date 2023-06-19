@@ -2,20 +2,21 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=560e0d&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Ló+José+Couth;I'm+25+years+old;I+am+from+Teresina,+PI;I+study+Software+Engineering+at+Estácio;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-
-- 🔭 Em busca da minha primeira oportunidade como programador ...
-- 🌱 Atualmente cursando Engenharia de Software ...
-- 😄 Pronouns:ele/dele ...
-
 <br>
 
 <div align="center">  
   <a href="https://www.linkedin.com/in/ló-josé-coutinho-536b2720b"/>
-  <img width="45%" src ="https://github-readme-stats.vercel.app/api?username=LoJoseCouth&theme=shadow_red&show_icons=true"/>
-  <img width="54%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=LoJoseCouth&layout=compact&langs_count=16&theme=shadow_red"/>
+   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LoJoseCouth&theme=shadow_red&show_icons=true"/>
+   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoJoseCouth&layout=compact&langs_count=16&theme=shadow_red"/>
  <div/>
 <br>
-  
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LoJoseCouth&bg_color=110f0f&color=952323&line=5d272f&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+   
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LoJoseCouth&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
  <h3>Main skills:<h3>
    <img aling="center" alt="LoJoseCouth-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
    <img aling="center" alt="LoJoseCouth-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
